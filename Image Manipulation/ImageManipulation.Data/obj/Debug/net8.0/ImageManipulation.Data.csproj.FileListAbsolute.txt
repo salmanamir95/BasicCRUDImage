@@ -1,0 +1,28 @@
+D:\Github Projects\Image Manipulation\ImageManipulation.Data\bin\Debug\net8.0\ImageManipulation.Data.deps.json
+D:\Github Projects\Image Manipulation\ImageManipulation.Data\bin\Debug\net8.0\ImageManipulation.Data.runtimeconfig.json
+D:\Github Projects\Image Manipulation\ImageManipulation.Data\bin\Debug\net8.0\ImageManipulation.Data.dll
+D:\Github Projects\Image Manipulation\ImageManipulation.Data\bin\Debug\net8.0\ImageManipulation.Data.pdb
+D:\Github Projects\Image Manipulation\ImageManipulation.Data\obj\Debug\net8.0\ImageManipulation.Data.csproj.AssemblyReference.cache
+D:\Github Projects\Image Manipulation\ImageManipulation.Data\obj\Debug\net8.0\ImageManipulation.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github Projects\Image Manipulation\ImageManipulation.Data\obj\Debug\net8.0\ImageManipulation.Data.AssemblyInfoInputs.cache
+D:\Github Projects\Image Manipulation\ImageManipulation.Data\obj\Debug\net8.0\ImageManipulation.Data.AssemblyInfo.cs
+D:\Github Projects\Image Manipulation\ImageManipulation.Data\obj\Debug\net8.0\ImageManipulation.Data.csproj.CoreCompileInputs.cache
+D:\Github Projects\Image Manipulation\ImageManipulation.Data\obj\Debug\net8.0\ImageManipulation.Data.dll
+D:\Github Projects\Image Manipulation\ImageManipulation.Data\obj\Debug\net8.0\refint\ImageManipulation.Data.dll
+D:\Github Projects\Image Manipulation\ImageManipulation.Data\obj\Debug\net8.0\ImageManipulation.Data.pdb
+D:\Github Projects\Image Manipulation\ImageManipulation.Data\obj\Debug\net8.0\ImageManipulation.Data.genruntimeconfig.cache
+D:\Github Projects\Image Manipulation\ImageManipulation.Data\obj\Debug\net8.0\ref\ImageManipulation.Data.dll
+D:\Github Projects\Image Manipulation .NET\Image Manipulation\ImageManipulation.Data\bin\Debug\net8.0\ImageManipulation.Data.deps.json
+D:\Github Projects\Image Manipulation .NET\Image Manipulation\ImageManipulation.Data\bin\Debug\net8.0\ImageManipulation.Data.runtimeconfig.json
+D:\Github Projects\Image Manipulation .NET\Image Manipulation\ImageManipulation.Data\bin\Debug\net8.0\ImageManipulation.Data.dll
+D:\Github Projects\Image Manipulation .NET\Image Manipulation\ImageManipulation.Data\bin\Debug\net8.0\ImageManipulation.Data.pdb
+D:\Github Projects\Image Manipulation .NET\Image Manipulation\ImageManipulation.Data\obj\Debug\net8.0\ImageManipulation.Data.csproj.AssemblyReference.cache
+D:\Github Projects\Image Manipulation .NET\Image Manipulation\ImageManipulation.Data\obj\Debug\net8.0\ImageManipulation.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github Projects\Image Manipulation .NET\Image Manipulation\ImageManipulation.Data\obj\Debug\net8.0\ImageManipulation.Data.AssemblyInfoInputs.cache
+D:\Github Projects\Image Manipulation .NET\Image Manipulation\ImageManipulation.Data\obj\Debug\net8.0\ImageManipulation.Data.AssemblyInfo.cs
+D:\Github Projects\Image Manipulation .NET\Image Manipulation\ImageManipulation.Data\obj\Debug\net8.0\ImageManipulation.Data.csproj.CoreCompileInputs.cache
+D:\Github Projects\Image Manipulation .NET\Image Manipulation\ImageManipulation.Data\obj\Debug\net8.0\ImageManipulation.Data.dll
+D:\Github Projects\Image Manipulation .NET\Image Manipulation\ImageManipulation.Data\obj\Debug\net8.0\refint\ImageManipulation.Data.dll
+D:\Github Projects\Image Manipulation .NET\Image Manipulation\ImageManipulation.Data\obj\Debug\net8.0\ImageManipulation.Data.pdb
+D:\Github Projects\Image Manipulation .NET\Image Manipulation\ImageManipulation.Data\obj\Debug\net8.0\ImageManipulation.Data.genruntimeconfig.cache
+D:\Github Projects\Image Manipulation .NET\Image Manipulation\ImageManipulation.Data\obj\Debug\net8.0\ref\ImageManipulation.Data.dll
